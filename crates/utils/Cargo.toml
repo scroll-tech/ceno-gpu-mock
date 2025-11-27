@@ -26,3 +26,4 @@ witness.workspace = true
 
 [features]
 gpu = []
+bb31 = []
