@@ -1,6 +1,6 @@
 [package]
 edition = "2024"
-name = "cuda_hal_mock"
+name = "cuda_hal"
 publish = false
 version = "0.1.0"
 
